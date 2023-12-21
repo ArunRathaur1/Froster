@@ -1,0 +1,27 @@
+p[class="TopHeading"]{
+    font-size: 30px;
+    margin-left: 1cm;
+}
+textarea[class="Textinput"]{
+  width:90%;
+  position: relative;
+  left:4%;
+  height:3cm; 
+    border-color: blue;
+    resize: vertical;
+    overflow: auto;
+}
+button[class="btn btn-primary hello"]{
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+textarea[class="Textinput1"]{
+    width:90%;
+    position: relative;
+    left:4%;
+    height:3cm; 
+      border:none;
+      margin-bottom: 30px;
+      resize: vertical;
+      overflow: auto;
+  }

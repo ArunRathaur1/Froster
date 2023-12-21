@@ -1,0 +1,13 @@
+div[className="boxing"]{
+    display: flex;
+}
+@media only screen and (max-width: 600px) {
+    div[className="boxing"]{
+    display: block;
+    
+    }
+    img{
+        position: relative;
+        left:30%;
+    }
+  }

@@ -1,0 +1,7 @@
+div[class="totalBox card text-center"]{
+    position: relative;
+    top:-20px;
+    background-color: rgb(31, 31, 31);
+    border-radius: 0px;
+    color: white;
+}

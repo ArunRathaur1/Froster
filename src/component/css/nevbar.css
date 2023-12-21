@@ -1,0 +1,38 @@
+.fullbox{
+    position: relative;
+    top:-8px
+}
+.nevbutton{
+    position: relative;
+    top:8px;
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    font-weight: 900;
+}
+.nevbutton:hover{
+    color:blue;
+}
+.nevbutton:active{
+    color:red;
+}
+.nevimage{
+    width: 3cm;
+    position: relative;
+    top:8px;
+}
+.nev1button{
+    margin-left: 30px;
+    font-weight: 900;
+    border-radius: 10px;
+    width: 3cm;
+    border:none;
+    color:white;
+    background-color: blue;
+}
+.nev1button:hover{
+    background-color: rgb(4, 4, 147);
+}
+.nev1button:active{
+    background-color: red;
+}

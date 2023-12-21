@@ -1,0 +1,35 @@
+div[class="Container"]{
+    width:10cm;
+    margin: auto;
+    background-color: rgb(41, 41, 41);
+    padding: 10px;
+    position: relative;
+    left:20%;
+    border-radius: 10px;
+    opacity: 90%;
+    }
+div[class="FullContainer"]{
+    position: relative;
+    top:-20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background:url("../images/siginbackground.jpg");
+    color:rgb(255, 255, 255);
+}
+.button{
+    width:100%;
+}
+.button:hover{
+    background:darkblue;
+}
+label[class=" hello form-label"]{
+    border:"solid";
+    position: relative;
+    left:38%;
+    font-size:30px;
+    text-decoration: underline;
+    color: rgb(108, 108, 248);
+}
+.hello1{
+    margin-bottom: 20px;
+}

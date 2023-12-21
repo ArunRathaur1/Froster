@@ -1,0 +1,11 @@
+h1{
+    color:pink;
+}
+h1:hover{
+    color:red;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
