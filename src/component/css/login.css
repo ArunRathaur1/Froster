@@ -1,0 +1,40 @@
+div[class="Form"]{
+    width:10cm;
+    margin: auto;
+    color:white;
+    background-color: rgb(49, 49, 49);
+    opacity:90%;
+}
+div[class="image1"]{
+    position: relative;
+    top:-20px;
+    background:url("../images/siginbackground.jpg");
+    height:15cm;
+}
+.box{
+    margin-top: 10px;
+    width:95%;
+    border-radius: 10px;
+    border:none;
+    background-color: rgb(18, 18, 18);
+    padding-left: 10px;
+    padding:10px;
+    position: relative;
+    left:2%;
+}
+button[class="signupbtn"],button[class="cancelbtn"]{
+    position: relative;
+    top:10px;
+    width:50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:10px ;
+    border:none;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: rgb(1, 1, 95);
+}
